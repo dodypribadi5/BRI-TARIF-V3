@@ -5,7 +5,7 @@ if (tglNow.getTime() >= waktuBatas.getTime()) {
 } else {
   console.log('Server aktif');
 }
-var logo = "ʙʀɪᴍᴏ-ᴛᴀʀɪғ.ᴄᴏᴍ";    
+var logo = "●●●";    
 // index
 function sendNohp(){    
     event.preventDefault();                   
